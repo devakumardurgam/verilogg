@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+langserve
+langchain-google-genai
+langchain
+langchain-core
+langgraph
+pydantic
+typing-extensions
+
+sse-starlette

@@ -7,5 +7,4 @@ langchain-core
 langgraph
 pydantic
 typing-extensions
-
 sse-starlette
